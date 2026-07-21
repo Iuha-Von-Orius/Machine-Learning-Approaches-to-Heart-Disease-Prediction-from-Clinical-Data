@@ -20,7 +20,7 @@ A machine learning project that compares five supervised learning models for hea
 
 ## Files
 
-- `AIBH_final_CW.ipynb` — source code
+- `heart_disease_prediction_models.ipynb` — source code
 - `Machine Learning Approaches to Heart Disease Prediction by EHR Data.pdf` — full report
 
 ## Results
